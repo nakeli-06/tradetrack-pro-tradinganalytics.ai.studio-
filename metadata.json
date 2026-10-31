@@ -1,0 +1,6 @@
+{
+  "name": "TradeTrack Pro - Trading Analytics & Journal",
+  "description": "Professional trading analytics dashboard calculating weekly and monthly trades, win rates, profits, losses, and pair-by-pair metrics for Gold and forex pairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
